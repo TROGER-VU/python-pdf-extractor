@@ -1,0 +1,6 @@
+poppler-utils
+streamlit
+easyocr
+pdf2image
+pillow
+numpy
